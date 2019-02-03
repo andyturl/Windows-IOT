@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Server", "Server", "{1B540D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Slack2Display.Server", "Slack2Display\Server\Slack2Display.Server.csproj", "{C59501D6-96BB-4727-AB78-64DF8DE28643}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slack2Display.Client", "Slack2Display\Client\Slack2Display.Client\Slack2Display.Client.csproj", "{B278F000-90B5-4724-800D-CDF69E9CDFC3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slack2Display.Client", "Slack2Display\Client\Slack2Display.Client.csproj", "{B278F000-90B5-4724-800D-CDF69E9CDFC3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
